@@ -1,5 +1,5 @@
 {
-  "name": "typescript-npm-package-template",
+  "name": "@rafalpast/plomk",
   "version": "0.0.0-development",
   "description": "The finest plomk, yet.",
   "main": "./lib/index.js",
